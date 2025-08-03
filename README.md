@@ -8,3 +8,5 @@ Frontend is to be written, this is only backend.
 2. On terminal type "npm install" to install all the required dependencies
 3. Then type "node index.js" to start the server
 4. You can give GET/POST/PUSH/DEL request through Postman
+
+Don't forget to make a .env file and fill the details in the same format as shown in the .env.example file

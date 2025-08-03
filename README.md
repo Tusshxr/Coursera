@@ -4,7 +4,7 @@ This includes the admin/user portal in which admins can create their own course,
 
 Frontend is to be written, this is only backend.
 
->> To test this locally import the code to your folder
->> On terminal type "npm install" to install all the required dependencies
->> Then type "node index.js" to start the server
->> You can give GET/POST/PUSH/DEL request through Postman
+1. To test this locally import the code to your folder
+2. On terminal type "npm install" to install all the required dependencies
+3. Then type "node index.js" to start the server
+4. You can give GET/POST/PUSH/DEL request through Postman
